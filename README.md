@@ -8,3 +8,12 @@ How to run the application:
 
 3. if the cities.txt file is not provided, do not pass any runtime arguments. the default cities.txt can be used that is already present in the repo sources file.
     mvn spring-boot:run
+4. File name can be canyting as long as the txt  data format is maintained as below:
+========some.txt==============
+Boston, New York
+Philadelphia, Newark
+Newark, Boston
+Trenton, Albany
+Boston, Atlanta
+New York,Newark
+=============================
