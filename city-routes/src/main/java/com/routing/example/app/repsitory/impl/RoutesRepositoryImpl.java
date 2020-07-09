@@ -20,11 +20,15 @@ import com.routing.example.app.repsitory.RoutesRepository;
 @Repository
 public class RoutesRepositoryImpl implements RoutesRepository {
 	
+
 	@Autowired
 	private ResourceLoader resourceLoader;
 
 	Logger logger = LoggerFactory.getLogger(RoutesRepositoryImpl.class);
 
+	/**
+	 * Read the data from External Source.
+	 */
 	@Override
 	public List<String> getRoutes() {
 
