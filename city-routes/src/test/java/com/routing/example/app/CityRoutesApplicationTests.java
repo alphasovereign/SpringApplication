@@ -9,5 +9,4 @@ class CityRoutesApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
