@@ -10,3 +10,4 @@ How to run the application:
 4. if the cities.txt file is not provided, do not pass any runtime arguments. the default cities.txt can be used that is already present in the repo sources file.
     "mvn spring-boot:run"
 5. File name can be canyting as long as the txt  data format is maintained as <key,value> pairs:
+6. After the server startup run the command ->  "http://localhost:8080/connected?origin=Boston&destination=New%20York"
