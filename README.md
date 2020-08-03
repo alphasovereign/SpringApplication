@@ -11,3 +11,4 @@ How to run the application:
     "mvn spring-boot:run"
 5. File name can be canyting as long as the txt  data format is maintained as <key,value> pairs:
 6. After the server startup run the command ->  "http://localhost:8080/connected?origin=Boston&destination=New%20York"
+7. To Access the application : http://localhost:8080  -> this will route to the main page
