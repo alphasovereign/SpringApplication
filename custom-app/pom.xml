@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.routing.example.app</groupId>
-	<artifactId>city-routes</artifactId>
+	<artifactId>custom-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>city-routes</name>
+	<name>Custom-App</name>
 	<description>Demo project for City Routes Application</description>
 
 	<properties>
